@@ -1,0 +1,53 @@
+.title{
+  color:black;
+}
+
+.body{
+  background-image:url("nice.gif");
+
+}
+header{
+  height:40px;
+
+}
+h1{
+  text-align: center;
+  font-size: 65px;
+  line-height: 40px;
+}
+p{
+  text-align: center;
+  font-size: 50px;
+  line-height: 40px;
+}
+
+button{
+  font-size: 30px;
+  margin-top: 60px;
+  margin-left: 250px;
+}
+h2{
+  color: #AA0000;
+  font-size: 50px;
+  margin-top: 60px;
+  margin-left: 200px;
+}
+h3{
+
+
+  font-size: 45px;
+  margin-top: 60px;
+  margin-left: 250px;
+}
+
+h4{
+  font-size: 50px;
+margin-left: 480px;
+margin-bottom: 100px;
+color:#008000;
+}
+h5{
+  font-size: 80px;
+  margin-left: 380px;
+  margin-top:200px;
+}
